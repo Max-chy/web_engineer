@@ -8,7 +8,7 @@ import axios from 'axios'
 import VueAxios from 'vue-axios'
 Vue.use(VueAxios, axios)
 
-axios.defaults.baseURL = 'http://localhost:8999'
+axios.defaults.baseURL = 'http://localhost:20206'
 
 import ElementUI from 'element-ui'
 import echarts from 'echarts'

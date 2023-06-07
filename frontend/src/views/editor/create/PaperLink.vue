@@ -58,7 +58,7 @@ export default {
   methods: {
     copyURL() {
       this.$message({
-        message: '複製成功!',
+        message: '复制成功!',
         type: 'success'
       })
     },

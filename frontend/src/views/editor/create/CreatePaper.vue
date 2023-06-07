@@ -2,7 +2,7 @@
   <el-dialog
     title="新增问卷"
     :visible="createPaperVisible"
-    :before-close="handleClose"
+    :before-close="handleClose"question_id
     @close="close()"
     width="30%"
   >
