@@ -1,5 +1,5 @@
-# 2023 web工程第八组
+# 2023 web_engineer Group8
 
-## 项目介绍
+## Introduction
 
-随着大数据和信息技术的迅速发展，问卷调查成为了大学生在学术研究、社会调查以及市场调研中不可或缺的工具。然而，目前大多数大学生在进行问卷调查时，面临着手工设计问卷、手动收集和分析数据等繁琐的工作，导致效率低下和数据质量不高。为了方便大学生群体的学习和工作，提高调查效率和数据分析能力，我们计划开发一个专门针对大学生群体的在线问卷调查系统。
+With the rapid development of big data and information technology, surveys have become an indispensable tool for college students in academic research, social surveys, and market research. However, most college students currently face tedious tasks such as manually designing questionnaires, collecting, and analyzing data, leading to low efficiency and poor data quality. To facilitate the learning and work of the college student community and improve survey efficiency and data analysis capabilities, we plan to develop a specialized anonymous online survey system for college students. This system aims to serve the needs of college students while protecting privacy, enabling minority groups to boldly express different needs and opinions.
